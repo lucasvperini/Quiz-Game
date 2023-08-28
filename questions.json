@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the correct syntax to declare a function in JavaScript?",
+    "answers": [
+      "function myFunction()",
+      "function = myFunction()",
+      "func myFunction()",
+      "def myFunction():"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the purpose of the `git clone` command in Git?",
+    "answers": [
+      "To create a new Git repository.",
+      "To synchronize changes between branches.",
+      "To create a copy of a remote repository on your local machine.",
+      "To undo the last Git commit."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In JavaScript, what does the `typeof` operator return when used with an array?",
+    "answers": [
+      "'array'",
+      "'object'",
+      "'string'",
+      "'list'"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the purpose of the `npm` command in Node.js development?",
+    "answers": [
+      "To manage global system packages.",
+      "To create a new Node.js application.",
+      "To run JavaScript code in the browser.",
+      "To manage dependencies and packages for a Node.js project."
+    ],
+    "correct": 3
+  }
+]
